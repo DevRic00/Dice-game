@@ -92,4 +92,5 @@ btnHold.addEventListener('click', function () {
   }
 });
 
+// Calls init function where in the game starts at the beginning with default values.
 btnNew.addEventListener('click', init);
